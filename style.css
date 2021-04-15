@@ -1,6 +1,13 @@
 .head{
   background-image: url(./images/sautisol.png);
-  height: 800px;
+  height: 1000px;
   background-repeat: no-repeat;
   background-size: cover;
+  overflow: hidden;
+}
+.head:hover{
+  background-image: url(./images/Sauti-Sol.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  overflow: hidden;
 }
