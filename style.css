@@ -11,3 +11,11 @@
   background-size: contain;
   overflow: hidden;
 }
+h2 {
+  font-family: 'Limelight', cursive;
+  padding: 60px;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 6px;
+
+}
