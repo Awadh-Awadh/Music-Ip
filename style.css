@@ -5,12 +5,7 @@
   background-size: cover;
   overflow: hidden;
 }
-.head:hover{
-  background-image: url(./images/Sauti-Sol.jpg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  overflow: hidden;
-}
+
 h2 {
   font-family: 'Limelight', cursive;
   padding: 60px;
@@ -90,6 +85,7 @@ p, li{
   font-size: 25px;
   padding-bottom: 60px;
   line-height: 60px;
+  font-weight: 700;
 }
 .enjoy{
   text-align: center;
