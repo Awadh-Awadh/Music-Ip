@@ -46,9 +46,15 @@ p, li{
   margin: 0 auto;
 
 }
-/* .container{
+.container{
   background-color: black;
-} */
+}
+.container p {
+  color: azure;
+}
+.container h3{
+  color:azure;
+}
 .row1{
   text-align: left;
   position: relative;
