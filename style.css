@@ -19,3 +19,32 @@ h2 {
   letter-spacing: 6px;
 
 }
+h3{
+  font-family: 'Orelega One', cursive;
+  letter-spacing: 2px;
+
+}
+p{
+  font-family: font-family: 'Montserrat', sans-serif;
+
+}
+p, li{
+  font-family: font-family: 'Montserrat', sans-serif;
+}
+.intro {
+  /* width: 50%; */
+  text-align: center;
+  
+
+
+}
+.descimg{
+  width: 700px;
+  height: 700px;
+  margin: 0 auto;
+
+}
+.description{
+  text-align: center;
+}
+
