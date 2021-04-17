@@ -22,16 +22,17 @@ h2 {
 }
 h3{
   font-family: 'Orelega One', cursive;
-  letter-spacing: 2px;
-  
+  letter-spacing: 2px; 
 
 }
-p{
-  font-family: font-family: 'Montserrat', sans-serif;
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  font-weight: 700;
 
 }
 p, li{
-  font-family: font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 .intro {
   /* width: 50%; */
@@ -50,7 +51,7 @@ p, li{
   background-color: black;
 }
 .container p {
-  color: azure;
+  color: white;
 }
 .container h3{
   color:azure;
@@ -94,4 +95,16 @@ p, li{
   text-align: center;
   font-size: 35px;
   padding-top: 60px;
+}
+button{
+  background-color: red;
+  font-size: 40px;
+  border-radius: 20px;
+  
+}
+.btn{
+  text-align: center;
+}
+button{
+  cursor:pointer;
 }
